@@ -96,7 +96,7 @@ fig.show()
 ```
 
 #### 🖼️ Visualization:
-![Sales by Sub-Category](images/SalesSubCatagory.png)
+![Sales by Sub-Category](https://github.com/BhavyaSriDadi/E-commerce-Sales-Analysis/blob/main/Images/SalesSubCatagory.png)
 
 #### 📊 Insights:
 - Chairs & Phones have the highest sales, indicating high demand in the furniture and technology sectors.
@@ -120,7 +120,7 @@ fig.show()
 ```
 
 #### 🖼️ Visualization:
-![Profit by Category](images/Profit-Monthly.png)
+![Profit by Category](https://github.com/BhavyaSriDadi/E-commerce-Sales-Analysis/blob/main/Images/Profit-Monthly.png)
 
 #### 📊 Insights:
 - Profit shows an overall increasing trend throughout the year.
@@ -152,7 +152,7 @@ fig.show()
 ```
 
 #### 🖼️ Visualization:
-![Profit by Category](images/ProfitAnalysisbyCategory.png)
+![Profit by Category](https://github.com/BhavyaSriDadi/E-commerce-Sales-Analysis/blob/main/Images/ProfitAnalysisbyCategory.png)
 
 #### 📊 Insights:
 - Technology contributes the most to profit (50.8%), indicating high-margin products or strong sales volume.
@@ -176,7 +176,7 @@ fig.show()
 ```
 
 #### 🖼️ Visualization:
-![Customer Segment](images/ProfitAnalysisSubCategory.png)
+![Customer Segment](https://github.com/BhavyaSriDadi/E-commerce-Sales-Analysis/blob/main/Images/ProfitAnalysisSubCategory.png)
 
 #### 📊 Insights:
 - The highest profit is observed in the "Copiers" sub-category, followed by "Accessories", "Paper", and "Chairs".
@@ -215,7 +215,7 @@ fig.show()
 ```
 
 #### 🖼️ Visualization:
-![Customer Segment](images/CustomerSegment.png)
+![Customer Segment](https://github.com/BhavyaSriDadi/E-commerce-Sales-Analysis/blob/main/Images/CustomerSegment.png)
 
 #### 📊 Insights:
 - Consumer segment has the highest sales but relatively low profit.
@@ -249,7 +249,7 @@ plt.show()
 ```
 
 #### 🖼️ Visualization:
-![Sales to Profit Ratio](images/profitratio.png)
+![Sales to Profit Ratio](https://github.com/BhavyaSriDadi/E-commerce-Sales-Analysis/blob/main/Images/profitratio.png)
 
 #### 📊 Insights:
 - Consumer Segment has the highest Sales to Profit Ratio at 8.66, indicating that it generates the most sales relative to profit.
@@ -275,7 +275,7 @@ plt.show()
 ```
 
 #### 🖼️ Visualization:
-![Customer Lifetime Value](images/(CLV)Analysis.png)
+![Customer Lifetime Value](https://github.com/BhavyaSriDadi/E-commerce-Sales-Analysis/blob/main/Images/(CLV)Analysis.png)
 
 #### 📊 Insights:
 - Sean Miller is the highest-value customer, significantly ahead of others.
@@ -301,7 +301,7 @@ plt.show()
 ```
 
 #### 🖼️ Visualization:
-![Regional Sales](images/RegionalPerformanceAnalysis.png)
+![Regional Sales](https://github.com/BhavyaSriDadi/E-commerce-Sales-Analysis/blob/main/Images/RegionalPerformanceAnalysis.png)
 
 #### 📊 Insights:
 - The West region has the highest total sales, surpassing all other regions.
@@ -327,7 +327,7 @@ plt.show()
 ```
 
 #### 🖼️ Visualization:
-![Discount Effectiveness](images/DiscountEffectiveness.png)
+![Discount Effectiveness](https://github.com/BhavyaSriDadi/E-commerce-Sales-Analysis/blob/main/Images/DiscountEffectiveness.png)
 
 #### 📊 Insights:
 - There is a declining trend in profit as the discount increases.
@@ -354,7 +354,7 @@ plt.show()
 ```
 
 #### 🖼️ Visualization:
-![Order Processing Time](images/OrderProcessingEfficiency.png)
+![Order Processing Time](https://github.com/BhavyaSriDadi/E-commerce-Sales-Analysis/blob/main/Images/OrderProcessingEfficiency.png)
 
 #### 📊 Insights:
 - The processing time varies between 0 to 7 days, with distinct peaks at 2, 4, and 5 days.
@@ -390,7 +390,7 @@ plt.show()
 ```
 
 #### 🖼️ Visualization:
-![Sales Forecast](images/SalesForecasting.png)
+![Sales Forecast](https://github.com/BhavyaSriDadi/E-commerce-Sales-Analysis/blob/main/Images/SalesForecasting.png)
 
 #### 📊 Insights:
 - The sales data shows seasonal patterns with noticeable peaks and troughs throughout the time period.
@@ -418,7 +418,7 @@ plt.show()
 ```
 
 #### 🖼️ Visualization:
-![Delivery Speed](images/DeliverySpeed.png)
+![Delivery Speed](https://github.com/BhavyaSriDadi/E-commerce-Sales-Analysis/blob/main/Images/DeliverySpeed.png)
 
 #### 📊 Insights:
 - Same Day Delivery: Offers the quickest delivery with an almost negligible average delivery time, making it ideal for urgent orders.
