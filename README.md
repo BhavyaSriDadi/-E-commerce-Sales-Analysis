@@ -46,7 +46,7 @@ fig.show()
 ```
 
 #### 🖼️ Visualization:
-![Monthly Sales Analysis](images/MonthlySales.png)
+![Monthly Sales Analysis](https://github.com/BhavyaSriDadi/E-commerce-Sales-Analysis/blob/main/Images/MonthlySales.png)
 
 #### 📊 Insights:
 - Sales fluctuate throughout the year, showing both growth and decline phases.
